@@ -151,7 +151,7 @@ const playMatchSound = () => {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center p-6" style={{
-  background: 'radial-gradient(ellipse at top, #3b1d6e 0%, #1a0933 40%, #0d0d1a 100%)'
+  background: 'radial-gradient(ellipse at top, #ffffff 0%, #000000 40%, #5b5b5b 100%)'
 }}>
       <h1 className="text-4xl font-bold mb-6 text-white drop-shadow-lg flex items-center gap-3">
         <GiCardJoker className="text-yellow-300 text-4xl" />
